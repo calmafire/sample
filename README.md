@@ -1,2 +1,2 @@
 # sample
-This is my first try at this server
+This is my first try on this server
